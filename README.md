@@ -65,7 +65,7 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。</span>
 </p>
 
-<body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
+<body onload="alert('エンプティーズ と レプレッションズ、忘年会準備LINE会話の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <p align="right">2019、河口湖忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
